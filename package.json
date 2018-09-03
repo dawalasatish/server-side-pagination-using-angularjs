@@ -1,0 +1,18 @@
+{
+  "name": "angularjs_pagination",
+  "version": "1.5.7",
+  "description": "angularjs-server-side pagination",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "side",
+    "pagination",
+    "using",
+    "angularjs"
+  ],
+  "author": "satish dawala",
+  "license": "ISC"
+}
